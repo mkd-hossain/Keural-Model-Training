@@ -2,7 +2,7 @@
 
 > **Full training pipeline for the Keural MoE Foundation Model**
 > A 14.83B parameter Mixture-of-Experts LLM trained from scratch on Korean + English + Code.
-> Built and maintained by **Md Najmul Hossain** / **MKD CO., LTD.**
+> Built and maintained by **MKD CO., LTD.**
 
 ---
 
@@ -655,14 +655,13 @@ ValueError: Bad magic in keural_000.bin
 
 ## Author & License
 
-**Md Najmul Hossain**
-CEO / Founder — MKD CO., LTD.
+MKD CO., LTD.
 Email: hossain.najmul@mkd.kr
 
 **Keural** is an original foundation model built from scratch. The architecture, training pipeline, tokenizer, and all code are original work.
 
 Related repositories:
-- Tokenizer: [github.com/mkd-hossain/keural-tokenizer](https://github.com/mkd-hossain/keural-tokenizer)
+- Tokenizer: [github.com/mkd-hossain/keural-tokenizer](https://github.com/MKD-CORP/keural-tokenizer)
 
 ```bibtex
 @misc{keural-2026,
